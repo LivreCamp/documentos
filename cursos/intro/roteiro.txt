@@ -1,0 +1,52 @@
+* Bem vindes à UNICAMP!
+
+* Softwares
+	- Softwares
+		Durante o curso, vocês criarão e entraram em contato com muitos programas de computador.
+    	- Licenças
+				Os softwares, como livros, filmes e artigos científicos, possuem direito autorais.
+				A licença de um software determina o que é possível fazer com o código-fonte de um programa.
+				A licença do Microsoft Windows, por exemplo, não dá direito ao acesso ao código-fonte nem distribuir livremente ele.
+
+	- Open source
+	Programas "código aberto" garantem que a pessoa leia o código-fonte de uma parte ou de um todo do programa.
+	Porém, ele permitem que algumas partes do programa tenho código-fonte fechado.
+
+	- Software Livre
+	Todo software livre é open source, mas o contrário nem sempre é verdadeiro.
+	Para um software ser livre ele deve possuir as seguintes liberdades:
+		1: A liberdade para executar o programa, para qualquer propósito;
+		2: A liberdade de estudar o software;
+		3: A liberdade de redistribuir cópias do programa de modo que você possa ajudar ao seu próximo;
+		4: A liberdade de modificar o programa e distribuir estas modificações, de modo que toda a comunidade se beneficie.
+
+* Sistemas operacionais
+	- O que é GNU/Linux?
+		GNU foi um projeto para desenvolver um SO livre. Linux era um projeto de um núcleo de SO.
+		As duas iniciativas se uniram e criaram o SO GNU/Linux.
+
+	- Porque usamos?
+		Como usuária(o) de um GNU/Linux, você vai ter poder sobre o computador e tomar as decisões, sem mais atualizações forçadas
+		e limitações. Isso também é muito útil para desenvolver programas.
+
+	- Distros
+		Existe uma variedade imensa de variações GNU/Linux.
+		Cada uma tem um alguma finalidade e resultado diferente, as mais populares são:
+		Ubunto, Debian, Fedora
+
+	- Interface gráfica
+		A interface gráfica é algo a parte do SO e pode ser trocada, como o seu papel de parede do Windows.
+		A mais popular é o GNOME. No começo pode ser diferente, mas é bem intuitiva.
+
+	- Terminal
+		O terminal vai te acompanhar pelo curso e facilitar sua vida.
+		É o "contrário" da interface gráfica, e isso traz vantagens e desvantagens.
+
+* Primeiro software
+	- O que é linguagem de máquina e linguagem C
+		O computador só entende linguagem binário, 1 e 0. Como escrever um programa com esses recursos é uma tarefa impraticável,
+		existem linguagens de programação. A linguagem C é uma das mais importantes para a computação, é livre e é usada em boa
+		parte dos SOs. Vamos usar um compilador para transformar nosso código em C para linguagem de máquina.
+
+	- Olá mundo!
+		Vamos dizer algo para o mundo com o nosso primeiro programa. Qual vai ser sua primeira mensagem?
