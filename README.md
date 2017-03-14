@@ -6,8 +6,8 @@ Repositório dedicado a armazenar documentos do grupo de Cultura Livre da regiã
 
 Se você não sabe o que é software livre, [clique aqui](https://github.com/LivreCamp/documentos/wiki#o-que-é-software-livre) para ler um definição resumida!
 
-Se você está interessado em uma definição mias detalhada, bem como uma explicação sobre os princípios fundamentais
-do Software Livre, [clique aqui](www.gnu.org/philosophy/free-sw.pt-br.html)
+Se você está interessado em uma definição mais detalhada, bem como uma explicação sobre os princípios fundamentais
+do Software Livre, [clique aqui](https://www.gnu.org/philosophy/free-sw.pt-br.html)
 
 ## Reuniões
 
