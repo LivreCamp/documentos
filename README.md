@@ -2,6 +2,13 @@
 
 Repositório dedicado a armazenar documentos do grupo de Cultura Livre da região de Campinas. 
 
+## O que é software livre?
+
+Se você não sabe o que é software livre, [clique aqui](https://github.com/LivreCamp/documentos/wiki#o-que-é-software-livre) para ler um definição resumida!
+
+Se você está interessado em uma definição mias detalhada, bem como uma explicação sobre os princípios fundamentais
+do Software Livre, [clique aqui](www.gnu.org/philosophy/free-sw.pt-br.html)
+
 ## Reuniões
 
 - [02/02] Primeira Reunião Geral
