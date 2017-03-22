@@ -1,6 +1,6 @@
 # Reunião 21 Março
 
-###tl;dr
+### tl;dr
 
 - Ubuntu vai ser opt-in, definimos o fedora como padrão
 - Samuel e Capone estão responsáveis pelo pré-evento da secomp (Issue no repositóro + Board)
