@@ -16,7 +16,7 @@ do Software Livre, [clique aqui](https://www.gnu.org/philosophy/free-sw.pt-br.ht
 - [14/02] Reunião: Eventos de Recepção dos Calouros da Unicamp
 - [[01/03] Reunião: Datas, Cursos e Installfest](atas/reuniao-01-mar.md)
 - [[14/03] Reunião: Curso, mais Installfest, Camisetas e Parcerias](atas/reuniao-14-mar.md)
-
+- [[21/03] Reunião: Mais Installfest, SECOMP, Cursos e responsabilidades](atas/reuniao-21-mar.md)
 ## TODO
 
 - Manifesto (!!!)
