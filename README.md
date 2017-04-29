@@ -18,6 +18,7 @@ do Software Livre, [clique aqui](https://www.gnu.org/philosophy/free-sw.pt-br.ht
 - [[14/03] Reunião: Curso, mais Installfest, Camisetas e Parcerias](atas/reuniao-14-mar.md)
 - [[21/03] Reunião: Mais Installfest, SECOMP, Cursos e responsabilidades](atas/reuniao-21-mar.md)
 - [[23/04] Reunião: Evento Pré-Secomp, Livre Jam e Installfest 2.0](atas/reuniao-23-abr.md)
+- [[29/04] Reunião: Evento Pré-Secomp](atas/reuniao-29-abr.md)
 
 ## TODO
 
